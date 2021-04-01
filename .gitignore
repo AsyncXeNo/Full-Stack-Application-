@@ -14,3 +14,4 @@ tests/coverage_html/
 tests/.coverage
 build/
 tests/report/
+music_controller/db.sqlite3
