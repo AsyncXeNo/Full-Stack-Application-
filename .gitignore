@@ -15,3 +15,4 @@ tests/.coverage
 build/
 tests/report/
 music_controller/db.sqlite3
+music_controller/frontend/node_modules
